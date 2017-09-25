@@ -1,1 +1,135 @@
 /* Your CSS styles go here */
+body{
+background-color: #999999;
+margin:0px;
+}
+#header{
+background-color:hsl(30, 100%,80%);
+margin:0px;
+height:30px;
+border-radius:5px;
+border:1px #000000;
+text-align:center;
+ 
+
+}
+.sideleft{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:375px;
+background-color:#000000;
+color:white;
+border-style: outset;
+height:1038.5px;
+
+}
+img{
+width:250px;
+height:300px;
+border:1px solid #ddd;
+border-radius: 50%;
+}
+ 
+h2{
+color:white;
+
+}
+
+.sideleft1{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:910px;
+background-color:rgba(0, 255, 0, 0.3);
+color:white;
+border-style: double;
+height:px;
+}
+
+table, th, td {
+   border: 1px solid black;
+   background-color: #f5f5f5;
+}
+
+ 
+#sideleft2{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:910px;
+background-color:rgba(0, 255, 0, 0.3);
+color:white;
+border-style: double;
+list-style-type: circle;
+display:inline;
+}
+
+ 
+
+ 
+.sideleft3{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:px;
+background-color:rgba(10, 255,300, 0.3);
+color:white;
+border-style: double;
+}
+
+.sideleft4{
+width:320px;
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:910px;
+background-color: rgba(10, 255,300, 0.3);
+color:white;
+border-style: double;
+}
+#sideleft3{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:280px;
+background-color: #CCCCFF;
+color:white;
+border-style: double;
+height:187; 
+}
+
+
+#sideleft4{
+
+margin:0px;
+border-radius:5px;
+padding:10px;
+font-size:120%; 
+float:left;
+width:1500px;
+background-color: #CCCCFF;
+color:white;
+border-style: double;
+  
+}
+
+
+
